@@ -1,0 +1,4 @@
+Customer_Segment,Customers,Average_Willingness_to_Pay,Average_Churn_Probability,ML_Predicted_Value,Recommended_Price_to_Test
+Price-Sensitive Customers,331,782.49,0.129,683.47,699
+Value-Oriented Customers,342,1488.46,0.198,1208.28,1199
+Premium Customers,327,1566.13,0.077,1427.28,1499

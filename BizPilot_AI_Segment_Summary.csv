@@ -1,0 +1,4 @@
+Customer_Segment,Customers,Average_Willingness_to_Pay,Average_Churn_Probability
+Premium Customers,327,1566.13,0.077
+Price-Sensitive Customers,331,782.49,0.129
+Value-Oriented Customers,342,1488.46,0.198
